@@ -4,10 +4,10 @@
 thickness = 4;
 //--- the monitor clip
 monitor_clip_width_front = 30;
-monitor_clip_height_front = 7;
-monitor_clip_width_back = 30;
-monitor_clip_height_back = 30;
-monitor_clip_depth = 15; // monitor thickness
+monitor_clip_height_front = 10;
+monitor_clip_width_back = 40;
+monitor_clip_height_back = 40;
+monitor_clip_depth = 22; // monitor thickness
 // the stop sign
 stop_sign_radius = 50;
 stop_sign_back = monitor_clip_depth + thickness; // to the back, to make support obsolete
